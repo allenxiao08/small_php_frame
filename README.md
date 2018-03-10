@@ -2,7 +2,7 @@
 
 a small php frame. suit for small project
 
-everthing start one public/index.php
+everthing start on public/index.php
 
 app/database.php init the database connection
 
